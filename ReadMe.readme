@@ -1,1 +1,35 @@
-test
+# Find Me
+Find Me 
+>Présentation du projet: le but est de réaliser une application mobile permettant de retrouver un objet precieux 
+ou de retrouver son telephone avec un dispositif electronique fait spécialement pour l'occasion.
+>
+Les outils mis en oeuvre :
+>
+* git
+>
+* visual studio
+>
+* bitbucket
+>
+* Xcode
+>
+* zeplin 
+>
+* git hubs
+>
+Le développement tourne autour de 3 grandes parties
+>
+1. La mise en page 
+>
+2. Développement de la solution principale qui fera le coeur du projet 
+>
+3. La création du dispositif qui completera l'application
+>
+|développement         |langages |techniques de programmation                   |
+|----------------------|:-------:|:--------------------------------------------:|
+|mise en page   |c#,xamarin|développement web MCV avec code igniter       |
+|solution    |c#       |programmation objet, tests unitaires          |
+|ajouter sln au prototype|c#, mysql|programmation procédurale, stockées en mysql  |
+>
+# L'inscription en ligne.
+>
