@@ -27,9 +27,9 @@ Le développement tourne autour de 3 grandes parties
 >
 |développement         |langages |techniques de programmation                   |
 |----------------------|:-------:|:--------------------------------------------:|
-|mise en page   |c#,xamarin|développement web MCV avec code igniter       |
-|solution    |c#       |programmation objet, tests unitaires          |
-|ajouter sln au prototype|c#, mysql|programmation procédurale, stockées en mysql  |
+|mise en page   |c#,xamarin|développement web MCV avec code igniter             |
+|solution    |c#       |programmation objet, tests unitaires                    |
+|ajouter sln au prototype|c#, mysql|programmation procédurale, stockées en mysql|
 >
 # L'inscription en ligne.
 >
